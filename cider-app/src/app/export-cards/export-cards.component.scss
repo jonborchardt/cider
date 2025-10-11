@@ -78,7 +78,8 @@ $preview-individual-scale: 0.08;
         align-content: flex-start;
         gap: 10px;
         .preview-page {
-            background-color: white;
+            //background-color: white;
+            background-color: black;
             overflow: hidden;
             transform-origin: top left;
             .preview-sheet {
